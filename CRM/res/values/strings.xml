@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CRM</string>
+    <string name="menu_glowna">Strona główna</string>
+    <string name="menu_spotkania">Spotkania</string>
+    <string name="menu_klienci">Klienci</string>
+    <string name="menu_kalendarz">Kalendarz</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="customer_name">Nazwa firmy</string>
+    <string name="address">Adres</string>
+    <string name="geocode">Geokoduj</string>
+    <string name="title_activity_add_customer">Nowy klient</string>
+    <string name="title_activity_geocoded_list">Geokodowanie</string>
+    <string name="title_activity_all_customers">Klienci</string>
+    <string name="title_activity_customer_details">Szczegóły klienta</string>
+    <string name="title_activity_add_meeting">Dodaj spotkanie</string>
+    <string name="choose_address">Wybierz adres</string>
+    <string name="employee">Pracownik</string>
+    <string name="phone">Numer telefonu</string>
+    <string name="add_customer">Dodaj klienta</string>
+    <string name="add_meeting">Dodaj spotkanie</string>
+    <string name="choose_customer">Wybierz</string>
+    <string name="meetings_button">Spotkania</string>
+    <string name="no_data">Brak danych</string>
+    <string name="customer_added_toast">Klient został poprawnie dodany</string>
+    <string name="meeting_added_toast">Spotkanie zostało dodane</string>
+    <string name="not_geocoded">Proszę wykonać geokodowanie</string>
+    <string name="customer_isnt_selected">Proszę wybrać klienta</string>
+    <string name="show_on_map">Mapa</string>
+    <string name="search_hint">Wyszukiwanie klienta</string>
+    <string name="customer">Klient</string>
+    <string name="meeting_description">Opis spotkania</string>
+    <string name="title_activity_meeting_calendar">Kalendarz spotkań</string>
+
+</resources>
